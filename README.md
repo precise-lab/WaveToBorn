@@ -1,4 +1,4 @@
-# Learned Born Correction Methods for USCT Imaging 
+# Learned Correction Methods for USCT Imaging 
 
 Companion code for 
 > L. Lozenski, H. Wang, F. Li, M. Anastasio, B. Wohlberg, Y. Lin, U. Villa. Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models_, arXiv ([preprint](https://arxiv.org/abs/2205.05585?context=eess(https://arxiv.org/abs/2502.09546)))
