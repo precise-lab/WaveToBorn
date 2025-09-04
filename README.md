@@ -1,7 +1,7 @@
 # Learned Correction Methods for USCT Imaging 
 
 Companion code for 
-> L. Lozenski, H. Wang, F. Li, M. Anastasio, B. Wohlberg, Y. Lin, U. Villa. Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models_, arXiv ([preprint](https://arxiv.org/abs/2205.05585?context=eess(https://arxiv.org/abs/2502.09546)))
+> L. Lozenski, H. Wang, F. Li, M. Anastasio, B. Wohlberg, Y. Lin, U. Villa. _Learned Correction Methods for Ultrasound Computed Tomography Imaging Using Simplified Physics Models_, arXiv ([preprint](https://arxiv.org/abs/2205.05585?context=eess(https://arxiv.org/abs/2502.09546)))
 
 Learned correction methods for applying the Born approximation for USCT image reconstruciton governed by the acoustic wave equation. This repository provides two approaches for correction, artifact correction and data correction. 
 Artifact correciton applies the Born approximation for reconstruction from USCT measurements generated utilizing the the acoustic wave equation then utilizes a convolutional neural network (CNN) to correct artifacts due to model mismatch. 
